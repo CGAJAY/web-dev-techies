@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-styling{
+	@apply md:mx-2 mx-1 hover:border-2 hover:border-white p-1 md:px-2;
+}
